@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a74baf0ff40046f0a3801cffcbe8ff75" Name="Diagram1">
+        <EntityTypeShape EntityType="CormanModel.accion_rapida" Width="1.5" PointX="6" PointY="39.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.accion_rol" Width="1.5" PointX="8.25" PointY="40.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.archivo_personal" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.auxiliar_contenido" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.ayuda" Width="1.5" PointX="8.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.ayuda_rel" Width="1.5" PointX="11" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.cargo" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.carpeta_tematica" Width="1.5" PointX="7.5" PointY="65.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.catalogacion" Width="1.5" PointX="9.75" PointY="65.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.categ_archivo" Width="1.5" PointX="7.5" PointY="68.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.ciudad" Width="1.5" PointX="1.5" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.columna" Width="1.5" PointX="6" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.columna1" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.comando" Width="1.5" PointX="3.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.con_copia" Width="1.5" PointX="14.25" PointY="45.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.contenido" Width="1.5" PointX="14.25" PointY="48.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.correlativo" Width="1.5" PointX="12.5" PointY="68.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.director_att" Width="1.5" PointX="8.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.documento" Width="1.5" PointX="12" PointY="42" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.empresa" Width="1.5" PointX="0.75" PointY="21.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.estado" Width="1.5" PointX="9.75" PointY="44.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.filtro" Width="1.5" PointX="5.25" PointY="55.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.folder_archivo" Width="1.5" PointX="9.75" PointY="68.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.genero" Width="1.5" PointX="10.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.grupo" Width="1.5" PointX="5.25" PointY="60.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.grupo_directorio" Width="1.5" PointX="3" PointY="33.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.grupo_usuario" Width="1.5" PointX="7.5" PointY="76.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.grupo_usuario_carpeta_tematica" Width="1.5" PointX="9.75" PointY="73" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.libro" Width="1.5" PointX="14.25" PointY="55.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.menu" Width="1.5" PointX="6" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.notificacion" Width="1.5" PointX="16.5" PointY="46.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.notificacion_baja" Width="1.5" PointX="18.75" PointY="43.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.pai" Width="1.5" PointX="1.5" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.parametro_comando" Width="1.5" PointX="6" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.parametro_consulta" Width="1.5" PointX="8.25" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.parametro_sistema" Width="1.5" PointX="10.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.permiso_catalogacion" Width="1.5" PointX="10.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.persona" Width="1.5" PointX="0.75" PointY="30.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.persona_carpeta_tematica" Width="1.5" PointX="12.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.persona_firma" Width="1.5" PointX="7.5" PointY="50.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.persona_persona_archivo_general" Width="1.5" PointX="12.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.plantilla" Width="1.5" PointX="12" PointY="38.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.prioridad" Width="1.5" PointX="14.25" PointY="42.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.regional" Width="1.5" PointX="12.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.rol" Width="1.5" PointX="6" PointY="46.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.rol_menu" Width="1.5" PointX="8.25" PointY="26.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.rol_usuario" Width="1.5" PointX="8.25" PointY="60.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.rubro" Width="1.5" PointX="13.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.ruta" Width="1.5" PointX="14.25" PointY="72.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.seccion" Width="1.5" PointX="5.25" PointY="67" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.seguimiento" Width="1.5" PointX="14.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.sistema" Width="1.5" PointX="14.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_copia" Width="1.5" PointX="14.25" PointY="38.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_datos" Width="1.5" PointX="9.75" PointY="47.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_dest" Width="1.5" PointX="3" PointY="55.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_documento" Width="1.5" PointX="9.75" PointY="50" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_empresa" Width="1.5" PointX="1.5" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_notificacion" Width="1.5" PointX="14.25" PointY="60.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_referencia" Width="1.5" PointX="9.75" PointY="53.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_tarea" Width="1.5" PointX="14.25" PointY="35" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_tramite" Width="1.5" PointX="8.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_via" Width="1.5" PointX="9.75" PointY="56.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.usuario" Width="1.5" PointX="3" PointY="59.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.usuario_documento_leido" Width="1.5" PointX="14.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.usuario_grupo_usuario" Width="1.5" PointX="12.75" PointY="65" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.zona" Width="1.5" PointX="1.5" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.correlativos_2" Width="1.5" PointX="10.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.correlativos_2010" Width="1.5" PointX="14.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.correlativos2009" Width="1.5" PointX="16.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.correlativos2011" Width="1.5" PointX="3.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.pendientes_temp" Width="1.5" PointX="16.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.TCTR_Permisos_TraPer2009" Width="1.5" PointX="5.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_flujo" Width="1.5" PointX="16.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.tipo_menu" Width="1.5" PointX="16.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.correspondencia" Width="1.5" PointX="12.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.correspondencia_old" Width="1.5" PointX="16.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.correspondencia_para_mostrar" Width="1.5" PointX="7.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_accion_rol" Width="1.5" PointX="18.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_archivado" Width="1.5" PointX="18.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_archivo" Width="1.5" PointX="18.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_archivo1" Width="1.5" PointX="9.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_bandeja_originales_grupo" Width="1.5" PointX="20.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_cargo" Width="1.5" PointX="20.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_carpeta_tematica" Width="1.5" PointX="20.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_catalogacion" Width="1.5" PointX="20.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_catalogacion_proyecto" Width="1.5" PointX="20.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_ciudad" Width="1.5" PointX="2.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_copia_automatica" Width="1.5" PointX="4.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_cor_para_tareas_pendientes" Width="1.5" PointX="20.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correlativo" Width="1.5" PointX="9.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correlativo_HR" Width="1.5" PointX="22.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correlativo_proyecto" Width="1.5" PointX="22.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correlativo_sistema" Width="1.5" PointX="22.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correspondencia_archivada" Width="1.5" PointX="22.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correspondencia_atendida" Width="1.5" PointX="14.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correspondencia_bandeja" Width="1.5" PointX="16.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correspondencia_bandeja_original" Width="1.5" PointX="22.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correspondencia_bandeja_ultimo" Width="1.5" PointX="24.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correspondencia_libro" Width="1.5" PointX="24.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correspondencia_optima" Width="1.5" PointX="2.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_correspondencia_pendiente" Width="1.5" PointX="4.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_despacho_zona" Width="1.5" PointX="24.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_doc_generacion" Width="1.5" PointX="26.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_doc_generacion_en" Width="1.5" PointX="26.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_documento" Width="1.5" PointX="10.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_documento_copia" Width="1.5" PointX="26.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_documento_entrante" Width="1.5" PointX="24.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_documento_flujo" Width="1.5" PointX="26.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_documento_interno" Width="1.5" PointX="28.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_documento_ruta" Width="1.5" PointX="28.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_documento_saliente" Width="1.5" PointX="28.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_documento_seccion" Width="1.5" PointX="28.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_documento_todo" Width="1.5" PointX="28.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_empresa" Width="1.5" PointX="30.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_empresa_regional" Width="1.5" PointX="30.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_empresa1" Width="1.5" PointX="6.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_empresa2" Width="1.5" PointX="30.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_folder_archivo" Width="1.5" PointX="30.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_grupo_usuario" Width="1.5" PointX="16.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_hoja_ruta" Width="1.5" PointX="18.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_libro_interno" Width="1.5" PointX="30.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_lista_cargo" Width="1.5" PointX="6.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_lista_categ_archivo" Width="1.5" PointX="20.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_lista_empresa" Width="1.5" PointX="30.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_lista_folder_archivo" Width="1.5" PointX="30.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_lista_persona" Width="1.5" PointX="28.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_lista_seccion" Width="1.5" PointX="30.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_lista_tipo_documento" Width="1.5" PointX="12.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_nom_personas" Width="1.5" PointX="32.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_notificacion" Width="1.5" PointX="32.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_notificacion_entrante_origen" Width="1.5" PointX="32.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_notificacion_entrante_origen_proyecto" Width="1.5" PointX="32.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_notificacion_interna_origen" Width="1.5" PointX="32.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_notificacion_interna_origen_proyecto" Width="1.5" PointX="32.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_notificacion_saliente_origen" Width="1.5" PointX="20.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_notificacion_tematico" Width="1.5" PointX="26.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_notificacion_todo" Width="1.5" PointX="28.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_notificacion_todo_2" Width="1.5" PointX="34.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_pais" Width="1.5" PointX="34.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_persona" Width="1.5" PointX="34.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_persona_con_copia" Width="1.5" PointX="8.75" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_persona_con_copia_usuario" Width="1.5" PointX="34.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_persona_firma" Width="1.5" PointX="10.75" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_persona2" Width="1.5" PointX="34.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_plantilla" Width="1.5" PointX="22.75" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_prueba" Width="1.5" PointX="34.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_publico" Width="1.5" PointX="34.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_reportes_tematicos" Width="1.5" PointX="36.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_rolusuario" Width="1.5" PointX="36.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_rubro" Width="1.5" PointX="5.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_seccion_matriz" Width="1.5" PointX="36.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_tareas_ejecutadas" Width="1.5" PointX="36.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_tareas_pendientes" Width="1.5" PointX="36.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_tipo_documento" Width="1.5" PointX="36.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_tipo_documento_sis" Width="1.5" PointX="36.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_tipo_empresa" Width="1.5" PointX="30.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_tipo_flujo" Width="1.5" PointX="32.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_tipo_tarea" Width="1.5" PointX="36.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_tipo_tarea_sis" Width="1.5" PointX="2.75" PointY="37.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_tipo_via" Width="1.5" PointX="22.75" PointY="37.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_tipo_via_sis" Width="1.5" PointX="34.75" PointY="37.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_usuario" Width="1.5" PointX="36.75" PointY="37.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_usuarios" Width="1.5" PointX="38.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CormanModel.v_zona" Width="1.5" PointX="38.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="CormanModel.FK_accion_rol_accion_rapida" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_accion_rol_rol" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_ayuda_ayuda" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_ayuda_rel_ayuda" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_ayuda_rel_ayuda1" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_carpeta_tematica_seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_catalogacion_carpeta_tematica" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_grupo_usuario_carpeta_tematica_carpeta_tematica" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_catalogacion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_categ_archivo_seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_folder_archivo_categ_archivo" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_ciudad_pais" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_zona_ciudad" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_columna_comando" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_menu_comando" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_parametro_comando_comando" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_con_copia_documento" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_contenido_documento" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_correlativos_seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_correlativos_tipo_documento" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_empresa" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_empresa1" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_estado" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_folder_archivo" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_grupo" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_persona" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_persona1" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_seccion1" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_seccion2" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_tipo_correo" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_tipo_datos" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_tipo_datos1" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_tipo_dest" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_tipo_referencia" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_tipo_via" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_documento_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notificacion_documento" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_ruta_documento" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_empresa_empresa" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_empresa_tipo_empresa" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_empresa_zona" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_grupo_directorio_empresa" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notifica_estado" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_filtro_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notificacion_folder_archivo" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_grupo_directorio_grupo" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_grupo_tipo_dest" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_grupo_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_grupo_directorio_persona" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_grupo_usuario_carpeta_tematica_grupo_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_grupo_usuario_seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_usuario_grupo_usuario_grupo_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_libro_seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_libro_tipo_dest" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notificacion_libro" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_menu_menu" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_parametro_consulta_menu" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_rol_menu_menu" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notifica_prioridad" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notifica_ruta" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notificacion_baja_notificacion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notificacion_persona" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notificacion_persona1" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notificacion_tipo_copia" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notificacion_tipo_notificacion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notificacion_tipo_tarea" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_notificacion_baja_persona" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_persona_firma_persona" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_usuario_persona" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_persona_firma_seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_plantilla_tipo_documento" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_rol_menu_rol" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_rol_usuario_rol" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_rol_usuario_usuario1" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_seccion_seccion" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_seccion_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_usuario_grupo_usuario_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.FK_usuario_usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="CormanModel.pagina_impresa" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

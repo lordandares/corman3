@@ -1,0 +1,17 @@
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\Armoniasoft.Corman.Net.Bussines.exe.config
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\Armoniasoft.Corman.Net.Bussines.exe
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\Armoniasoft.Corman.Net.Bussines.pdb
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\Armoniasoft.Corman.Net.DataAccess.exe
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\EntityFramework.dll
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\Armoniasoft.Corman.Net.DataAccess.pdb
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\Armoniasoft.Corman.Net.DataAccess.exe.config
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\EntityFramework.xml
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\obj\Debug\Armoniasoft.Corman.Net.Bussines.csprojAssemblyReference.cache
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\obj\Debug\Armoniasoft.Corman.Net.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\obj\Debug\Armoniasoft.Corman.Net.Bussines.csproj.CopyComplete
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\obj\Debug\Armoniasoft.Corman.Net.Bussines.exe
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\obj\Debug\Armoniasoft.Corman.Net.Bussines.pdb
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\Newtonsoft.Json.dll
+C:\Users\l_aer\source\repos\Armoniasoft.Corman.Net.Api\Armoniasoft.Corman.Net.Bussines\bin\Debug\Newtonsoft.Json.xml
